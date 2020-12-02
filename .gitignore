@@ -52,6 +52,10 @@ project.lock.json
 *.log
 *.scc
 
+# Unity project files
+[Ll]ibrary
+!/Unity/**/*.meta
+
 # Visual C++ cache files
 ipch/
 *.aps
